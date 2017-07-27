@@ -1,6 +1,6 @@
 
 [[constraint]]
-  branch = "nc-udf-server-stop"
+  branch = "nc-udf-bool"
   name = "github.com/influxdata/kapacitor"
 [[constraint]]
   branch = "master"

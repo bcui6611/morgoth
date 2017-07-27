@@ -20,10 +20,10 @@
   revision = "748d386b5c1ea99658fd69fe9f03991ce86a90c1"
 
 [[projects]]
-  branch = "nc-udf-server-stop"
+  branch = "nc-udf-bool"
   name = "github.com/influxdata/kapacitor"
   packages = ["udf/agent"]
-  revision = "b27780e6f9d595b72aed0b5d13458a7662da1c45"
+  revision = "a3e51da7f60151964d3e2e93091c8de73901cca8"
 
 [[projects]]
   branch = "master"
@@ -82,6 +82,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "81588f85ab6d94ba26484ef7aa6c15899f38f30e283287d5e9dd7066392bf32e"
+  inputs-digest = "2476e8ae870c268b76058a788e8219ff9f67fb84821b0eda27332db92f0da4f6"
   solver-name = "gps-cdcl"
   solver-version = 1
